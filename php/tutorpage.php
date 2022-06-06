@@ -66,7 +66,7 @@ $stmt ->execute();
       <div class="bx bx-menu" id="menu-icon"></div>
       <ul class="navbar">
         <li><a href="index.php">Home</a></li>
-        <li><a href="subjectpage.php">Course</a></li>
+        <li><a href="#">Course</a></li>
         <li><a href="tutorpage.php">Tutor</a></li>
         <li><a href="#">Subscription</a></li>
         <li><a href="#">Profile</a></li>
