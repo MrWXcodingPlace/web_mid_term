@@ -71,7 +71,7 @@ if(isset($_POST["submit"])) {
                     </div>
 
                     <div>
-                        <input type="submit" name="submit">
+                        <input type="submit" name="submit" value="Login">
                     </div>
                 </form>
                 <div>
