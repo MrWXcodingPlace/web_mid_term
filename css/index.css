@@ -1,0 +1,32 @@
+/* Header setting */
+header {
+  height: 80vh;
+  background-image: url("../res/images/header.jpg");
+  background-size: cover;
+  background-position: center;
+  position: relative;
+  /* text-align: center; */
+  color: white;
+}
+header .bottom-left {
+  position: absolute;
+  bottom: 20px;
+  left: 30px;
+}
+header .bottom-left h1 {
+  padding: 0 20px 10px 20px;
+  font-size: 3rem;
+}
+header .bottom-left p {
+  padding: 0 20px 10px 20px;
+  font-size: 1.2rem;
+}
+
+/* Main Page */
+main {
+  padding: 30px;
+}
+h2 {
+  padding: 20px;
+  text-align: center;
+}
